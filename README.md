@@ -10,3 +10,5 @@ This game will follow along with tutorials found and purchased through Udemy.
 ***********************************************************************************************************************************
 
 - 01 Setting up Git Repo.
+- 02 Setting up the map with all Appropriate Settings
+- 03 Scupting the Landscare with some design ideas
