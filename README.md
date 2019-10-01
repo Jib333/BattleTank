@@ -6,7 +6,7 @@ The purpose of this git repo is to learn about github while also learning C++ fo
 This game will follow along with tutorials found and purchased through Udemy. 
 
 
-#**Commits**
+**Commits**
 ***********************************************************************************************************************************
 
 - 01 Setting up Git Repo.
